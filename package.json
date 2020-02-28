@@ -1,0 +1,15 @@
+{
+  "name": "To-Do-List",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": "git@github.com:BajekM/To-Do-List.git",
+  "author": "Marcin Bajek <bajekmarcin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
